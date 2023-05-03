@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d2915af-e22e-4b65-99bc-bbc2312d19a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/HelperMethodsApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/RestApiLandingPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/pageObjects/DemoqaLandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/pageObjects/LumaLandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/steps/DemoqaLandingPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/steps/LumaLandingPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/HelperMethodsSelenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/Demoqa.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/DemoqaApi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/Selenium.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/applicationDemoqa.properties" afterDir="false" />
+    <list default="true" id="9d2915af-e22e-4b65-99bc-bbc2312d19a2" name="Changes" comment="Proba">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/levente.molnar/Desktop/Project final de pe Git/LumaWebsite",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/levente.molnar/Desktop/Project final de pe Git/LumaWebsite&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\levente.molnar\Desktop\Project final de pe Git\LumaWebsite" />
@@ -365,6 +342,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675082032300</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proba">
+      <created>1683015979420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683015979420</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -385,6 +370,40 @@
     </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="051f0bc4-cc5b-4f1c-926d-acc5958e5068">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="482bd3f3-200f-4d25-9115-1b9ed926320a">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -395,6 +414,13 @@
               </option>
               <option name="FILTERS">
                 <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
                   <entry key="user">
                     <value>
                       <list>
@@ -424,8 +450,46 @@
             </State>
           </value>
         </entry>
+        <entry key="fe2c92d3-ec6e-4137-9e5e-af86e674f431">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="fe98f0e1-6560-4f48-9a19-33b604f550cd">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proba" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
